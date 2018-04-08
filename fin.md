@@ -1,7 +1,9 @@
-## Better Code Hub - Investor ready workshop winners
-[![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/BlockchainHackaton?branch=master | height=80) ](https://bettercodehub.com/)
+# Better Code Hub - Investor ready workshop winners
 
-### These teams with an Investor Readiness workshow by SIG Transaction Services
+<img src="https://bettercodehub.com/edge/badge/Blockchaingers/BlockchainHackaton?branch=master" height="80"/>
+
+### These teams have created high quality code, and win the Investor Readiness workshop by SIG Transaction Services
+### Total value € 15.000,--
 
 |Teams|
 |---|
