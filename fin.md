@@ -1,6 +1,4 @@
-## Better Code Hub
-
-# Winning teams Investor Readyness workshop
+# Winners teams Investor Readyness workshop
 
 <img src="https://bettercodehub.com/edge/badge/Blockchaingers/BlockchainHackaton?branch=master" height="60"/>
 
