@@ -8,11 +8,11 @@
 
 ## __Teams__
 
-# | &nbsp;|&nbsp; |
- | :---: | :---: |
-# | Stoney Creek | RepItUp |
-# | CellBlock42 | P-launch |
-# | Legal Things | Liftoff |
+| &nbsp;|&nbsp; |
+| :---: | :---: |
+| Stoney Creek | RepItUp |
+| CellBlock42 | P-launch |
+| Legal Things | Liftoff |
 
 These teams have created high quality code, and win the Investor Readiness workshop by SIG Transaction Services!
 
