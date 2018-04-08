@@ -6,7 +6,7 @@
 <img src="https://avatars0.githubusercontent.com/ml/246?s=140&v=4" />Total value € 15.000,-- <img src="https://avatars0.githubusercontent.com/ml/246?s=140&v=4" />
 <br />
 
-## ____Teams____
+## __Teams__
 
 | &nbsp;|&nbsp; |
 | :---: | :---: |
