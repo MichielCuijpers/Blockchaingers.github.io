@@ -13,5 +13,6 @@
 | CellBlock42 | P-launch |
 | Legal Things | Liftoff |
 
+
 These teams have created high quality code, and win the Investor Readiness workshop by SIG Transaction Services!
 Criteria include: Better Code hub score, code volume, test code ratio and ability to withstand our critical questions.
