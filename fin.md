@@ -1,4 +1,4 @@
-# Investor Readyness workshop
+# Investor Readiness Workshop
 
 
 ## __Winning Teams__
