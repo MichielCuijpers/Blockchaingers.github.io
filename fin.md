@@ -5,12 +5,12 @@
 
 ## __Winning Teams__
 
-| &nbsp;|&nbsp; |
+| &nbsp;|&nbsp;|
 | :---: | :---: |
 | Stoney Creek | RepItUp |
 | CellBlock42 | P-launch |
 | Legal Things | Liftoff |
-| &nbsp;|&nbsp; |
+| &nbsp;|&nbsp;|
 
 
 # <img src="https://avatars0.githubusercontent.com/ml/246?s=140&v=4" />Total value € 15.000,-- <img src="https://avatars0.githubusercontent.com/ml/246?s=140&v=4" />
