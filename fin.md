@@ -1,6 +1,4 @@
----
-title: Better Code Hub - Investor ready workshop winners
----
+# Better Code Hub - Investor ready workshop winners
 
 <img src="https://bettercodehub.com/edge/badge/Blockchaingers/BlockchainHackaton?branch=master" height="80"/>
 
