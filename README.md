@@ -6,7 +6,7 @@ Where: Enpuls - Lab 0.73, Den Bosch
 
 
 
-## How your code on GitHub is evaluated
+## How your code on GitHub is evaluated (1..10)
 
 1. Your code will be evaluated against 10 guidelines for building future-proof code. The guidelines are described in full in [“Building Maintainable Software”](http://shop.oreilly.com/product/0636920049159.do)
 
@@ -16,27 +16,20 @@ Where: Enpuls - Lab 0.73, Den Bosch
 
 4. 16 modern programming languages are [supported](https://bettercodehub.com/docs/configuration-manual) with a maximum codebase size 200 KLoc
 
+5. The more guidelines you get right, the higher score you get from 1 to 10.
+
 
 ## How to get started
 
-1. Register your team with to the EnergyHack Team.
+1. Register your team with the Energy Hack NL Team.
 
 2. Your team will be added to this [Organization](https://github.com/https://github.com/energyhacknl2018)
 
-3. Goto [bettercodehub.com](https://bettercodehub.com) and please accept the scopes 
+3. Goto [bettercodehub.com](https://bettercodehub.com) & please accept the scopes 
 
 4. Press Play and get instant feedback on your code and pick refactor candidates
 
 5. Click on the Pull request icon to enable BetterCodeHub to run in your CI/CD pipeline on GitHub
-
-
-## How to get support
-
-1. Before the event, through bettercodehub@sig.eu
-
-2. During the event by talking to Better Code Hub team of SIG with questions about refactoring tactics
-
-3. After the event, through bettercodehub@sig.eu 
 
 
 ## Example Hackathon Scoreboard
@@ -47,14 +40,6 @@ Team | Better Code Score
 --- | ---
 [dbh17-abraxas/ShareEverythingWeb](https://github.com/dbh17-abraxas/ShareEverythingWeb) | [![BCH compliance](https://bettercodehub.com/edge/badge/dbh17-abraxas/ShareEverythingWeb)](https://bettercodehub.com)
 
-
-## How to get points for technical quality
-
-1. You get based on your score in Better Code Hub
-
-2. The more guidelines you get right, the more points you get
-
-If you are not on GitHub or your programming language is not supported, talk to us
 
 
 ## Why do Hackathons need Future-Proof code
