@@ -6,7 +6,7 @@ Where: Enpuls - Lab 0.73, Den Bosch
 
 
 
-## How your code is evaluated
+## How your code on GitHub is evaluated
 
 1. Your code will be evaluated against 10 guidelines for building future-proof code. The guidelines are described in full in [“Building Maintainable Software”](http://shop.oreilly.com/product/0636920049159.do)
 
@@ -19,15 +19,13 @@ Where: Enpuls - Lab 0.73, Den Bosch
 
 ## How to get started
 
-1. Mail your team name and personal GitHub handles to the EnergyHack Team.
+1. Register your team with to the EnergyHack Team.
 
 2. Your team will be added to this [Organization](https://github.com/https://github.com/energyhacknl2018)
 
-3. Go to [bettercodehub.com](https://bettercodehub.com) 
+3. Goto [bettercodehub.com](https://bettercodehub.com) and please accept the scopes 
 
-4. Please ccept the scopes 
-
-5. Press Play and get instant feedback on your code and pick refactor candidates
+4. Press Play and get instant feedback on your code and pick refactor candidates
 
 5. Click on the Pull request icon to enable BetterCodeHub to run in your CI/CD pipeline on GitHub
 
@@ -59,11 +57,13 @@ Team | Better Code Score
 If you are not on GitHub or your programming language is not supported, talk to us
 
 
-## Why Blockchain needs Future-Proof code
+## Why do Hackathons need Future-Proof code
 
-Read more [On why it needs high quality code ](https://medium.com/@jstvssr/why-blockchain-needs-future-proof-code-cb09b39175e1#.bqfmcig55)
 
-Or about the [Dutch Blockchain Hackathon in Groningen](https://dev.to/jstvssr/how-a-hackathon-appreciates-quality-code)
+[Dutch Blockchain Hackathon in Groningen](https://dev.to/jstvssr/how-a-hackathon-appreciates-quality-code)
+
+[Writing quality onder time pressure) (https://hackernoon.com/writing-quality-code-under-time-pressure-62ebeb5f39c5)
+
 
 
 Let's build some great software!
