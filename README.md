@@ -1,23 +1,14 @@
-# Code quality during Blockchaingers Hackathon!
+# Code quality during Energy Hack NL!
 
-When: 5 - 8 April 2018.
+When: 25 - 27 May 2018.
 
-Where: The Big Building, Groningen NL
+Where: Enpuls - Lab 0.73, Den Bosch
 
-
-
-## Example Hackathon Scoreboard
-
-Not on the scoreboard? Let the BCH team know on the #bettercodehub-support Slack channel
-
-Team | Better Code Score
---- | ---
-[dbh17-abraxas/ShareEverythingWeb](https://github.com/dbh17-abraxas/ShareEverythingWeb) | [![BCH compliance](https://bettercodehub.com/edge/badge/dbh17-abraxas/ShareEverythingWeb)](https://bettercodehub.com)
 
 
 ## How your code is evaluated
 
-1. Your code will be evaluated against 10 guidelines for building future-proof code. The guidelines are described in full in [“Building Maintainable Software”](http://shop.oreilly.com/product/0636920049159.do) (get your free copy during the event)
+1. Your code will be evaluated against 10 guidelines for building future-proof code. The guidelines are described in full in [“Building Maintainable Software”](http://shop.oreilly.com/product/0636920049159.do)
 
 2. Find a concise reference card of the guidelines [here](https://cdn-images-1.medium.com/max/1200/1*TS-ZTeI7sQS7dy_AlMqSXQ.png)
 
@@ -28,15 +19,17 @@ Team | Better Code Score
 
 ## How to get started
 
-1. Mail your team name and personal GitHub handles to the BlockChaingers.
+1. Mail your team name and personal GitHub handles to the EnergyHack Team.
 
-2. Your team will be added to this [Organization](https://github.com/blockchaingers)
+2. Your team will be added to this [Organization](https://github.com/https://github.com/energyhacknl2018)
 
 3. Go to [bettercodehub.com](https://bettercodehub.com) 
 
-4. Press play and get instant feedback on the guidelines and pick refactor candidates
+4. Please ccept the scopes 
 
-5. Click on the Pull request icon to enable BetterCodeHub to run in your CICD
+5. Press Play and get instant feedback on your code and pick refactor candidates
+
+5. Click on the Pull request icon to enable BetterCodeHub to run in your CI/CD pipeline on GitHub
 
 
 ## How to get support
@@ -47,6 +40,14 @@ Team | Better Code Score
 
 3. After the event, through bettercodehub@sig.eu 
 
+
+## Example Hackathon Scoreboard
+
+Not on the scoreboard? Let the BCH team know on the #bettercodehub-support Slack channel
+
+Team | Better Code Score
+--- | ---
+[dbh17-abraxas/ShareEverythingWeb](https://github.com/dbh17-abraxas/ShareEverythingWeb) | [![BCH compliance](https://bettercodehub.com/edge/badge/dbh17-abraxas/ShareEverythingWeb)](https://bettercodehub.com)
 
 
 ## How to get points for technical quality
