@@ -1,4 +1,4 @@
-# Code quality for EnergyHackNL
+# Code quality at Hackathon
 
 When: 25 - 27, May 2018
 
