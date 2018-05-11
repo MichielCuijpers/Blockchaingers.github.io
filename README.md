@@ -1,8 +1,8 @@
-# Code quality at Hackathon
+## Why do Hackathons need Future-Proof code
 
-When: 25 - 27, May 2018
+[Dutch Blockchain Hackathon in Groningen](https://dev.to/jstvssr/how-a-hackathon-appreciates-quality-code)
 
-Where: Enpuls - Lab 0.73, Den Bosch
+[Writing quality onder time pressure](https://hackernoon.com/writing-quality-code-under-time-pressure-62ebeb5f39c5)
 
 
 ## How your code on GitHub is evaluated (1..10)
@@ -38,15 +38,6 @@ Not on the scoreboard? Let the BCH team know on the #bettercodehub-support Slack
 Team | Better Code Score
 --- | ---
 [dbh17-abraxas/ShareEverythingWeb](https://github.com/dbh17-abraxas/ShareEverythingWeb) | [![BCH compliance](https://bettercodehub.com/edge/badge/dbh17-abraxas/ShareEverythingWeb)](https://bettercodehub.com)
-
-
-
-## Why do Hackathons need Future-Proof code
-
-
-[Dutch Blockchain Hackathon in Groningen](https://dev.to/jstvssr/how-a-hackathon-appreciates-quality-code)
-
-[Writing quality onder time pressure](https://hackernoon.com/writing-quality-code-under-time-pressure-62ebeb5f39c5)
 
 
 
