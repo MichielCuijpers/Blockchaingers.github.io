@@ -47,7 +47,7 @@ Team | Better Code Score
 
 [Dutch Blockchain Hackathon in Groningen](https://dev.to/jstvssr/how-a-hackathon-appreciates-quality-code)
 
-[Writing quality onder time pressure) (https://hackernoon.com/writing-quality-code-under-time-pressure-62ebeb5f39c5)
+[Writing quality onder time pressure](https://hackernoon.com/writing-quality-code-under-time-pressure-62ebeb5f39c5)
 
 
 
