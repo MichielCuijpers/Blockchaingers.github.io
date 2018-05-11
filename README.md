@@ -1,4 +1,4 @@
-# Code quality during EnergyHackNL
+# Code quality for EnergyHackNL
 
 When: 25 - 27, May 2018
 
