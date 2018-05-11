@@ -1,9 +1,8 @@
-# Code quality during Energy Hack NL.
+# Code quality during EnergyHackNL
 
 When: 25 - 27 May 2018.
 
 Where: Enpuls - Lab 0.73, Den Bosch
-
 
 
 ## How your code on GitHub is evaluated (1..10)
