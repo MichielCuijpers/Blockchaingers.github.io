@@ -1,6 +1,6 @@
 # Code quality during EnergyHackNL
 
-When: 25 - 27 May 2018.
+When: 25 - 27 May 2018
 
 Where: Enpuls - Lab 0.73, Den Bosch
 
