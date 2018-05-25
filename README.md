@@ -33,7 +33,7 @@
 
 ## Hackathon Scoreboard
 
-Not on the scoreboard? Let the BCH team know on the #bettercodehub-support Slack channel
+Not on [the scoreboard](https://github.com/energyhacknl2018/energyhacknl2018.github.io/blob/master/scoreboard.md) ? Let the BCH team know on the #bettercodehub-support Slack channel
 
 example Team | example Better Code Score
 --- | ---
@@ -43,5 +43,9 @@ example Team | example Better Code Score
 
 Let's build some great software!
 
+[Sanne](https://github.com/sbrinkhorst)
 [Michiel](https://github.com/michielcuijpers)
+[Wojciech](https://github.com/porke)
+
+
 
