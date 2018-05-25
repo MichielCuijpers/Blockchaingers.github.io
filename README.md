@@ -1,4 +1,4 @@
-## Why do Hackathons need Future-Proof code?
+## Why do Hackathons need Future-Proof code too?
 
 [Dutch Blockchain Hackathon in Groningen](https://dev.to/jstvssr/how-a-hackathon-appreciates-quality-code)
 
