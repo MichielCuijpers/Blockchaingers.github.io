@@ -22,7 +22,7 @@
 
 1. Register your team with the Energy Hack NL Team.
 
-2. Your team will be added to this [Organization](https://github.com/https://github.com/energyhacknl2018)
+2. Your team will be added to this [Organization](https://github.com/energyhacknl2018)
 
 3. Goto [bettercodehub.com](https://bettercodehub.com) & please accept the scopes 
 
