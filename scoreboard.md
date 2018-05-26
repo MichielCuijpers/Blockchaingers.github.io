@@ -7,7 +7,7 @@
 | ADSE | ..     | 
 | Energy Cell | ..     | 
 | G.T.-club 4.0 | ..     | 
-| RAMMYT| ..     | 
+| RAMMYT| [![BCH compliance](https://bettercodehub.com/edge/badge/energyhacknl2018/gridbird?branch=master)](https://bettercodehub.com/)     | 
 | Unicorn | ..     | 
 | V2G | ..     | 
 
