@@ -7,7 +7,7 @@
 | GridBird | [![BCH compliance](https://bettercodehub.com/edge/badge/energyhacknl2018/gridbird?branch=master)](https://bettercodehub.com/) | 
 | ADSE | ..     | 
 | Energy Cell | ..     | 
-| G.T.-club 4.0 | ..     | 
+| G.T.-club 4.0 | [![BCH compliance](https://bettercodehub.com/edge/badge/energyhacknl2018/energyhackNL?branch=master)](https://bettercodehub.com/)     | 
 | Unicorn | ..     | 
 | V2G | ..     | 
 
