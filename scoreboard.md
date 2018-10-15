@@ -6,10 +6,7 @@
 | GrannyHeckle | [![BCH compliance](https://bettercodehub.com/edge/badge/energyhacknl2018/grannyheckle?branch=master&token=910d4dde78889fe8a37607f7495a62ee3b6ffc0e)](https://bettercodehub.com/) | 
 | GridBird | [![BCH compliance](https://bettercodehub.com/edge/badge/energyhacknl2018/gridbird?branch=master)](https://bettercodehub.com/) | 
 | G.T.-club 4.0 | [![BCH compliance](https://bettercodehub.com/edge/badge/energyhacknl2018/energyhackNL?branch=master)](https://bettercodehub.com/)     | 
-| Unicorn | ..     | 
-| V2G | ..     | 
-| ADSE | ..     | 
-| Energy Cell | ..     | 
+
 
 
 
