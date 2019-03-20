@@ -4,7 +4,7 @@ When: 5 - 8 April 2018
 
 Where:  The former Sugar Factory, Groningen NL
 
-Website: [Blockchaingers.org](https://blockchaingers.org)
+Website: [https://www.odyssey.org](https://blockchaingers.org)
 
 
 
@@ -16,7 +16,7 @@ Website: [Blockchaingers.org](https://blockchaingers.org)
 
 3. You can check your code against the guidelines using Better Code Hub, a GitHub integration provided by [Software Improvement Group SIG](https://www.sig.eu). Better Code Hub integrates with the GitHub CI and can run at Pull Requests and Pushes.
 
-4. 16 modern programming languages are [supported](https://bettercodehub.com/docs/configuration-manual) with a maximum codebase size 200 KLoc.
+4. 17 modern programming languages are [supported](https://bettercodehub.com/docs/configuration-manual) with a maximum codebase size 200 KLoc.
 
 ## How to contact us
 - At the Hackathon please use slack bettercodehub_support Jan Laan or Michiel Cuijpers 
@@ -85,7 +85,7 @@ Not on the scoreboard? Let the Better Code Hub team know on Slack or send a PR.
 
 ## Why Blockchain needs Future-Proof code
 
-Read more [On why it needs high quality code ](https://medium.com/@jstvssr/why-blockchain-needs-future-proof-code-cb09b39175e1#.bqfmcig55)
+Read more [On why Blockchain needs high quality code ](https://medium.com/@jstvssr/why-blockchain-needs-future-proof-code-cb09b39175e1#.bqfmcig55)
 
 Or about the [2017 Dutch Blockchain Hackathon in Groningen](https://dev.to/jstvssr/how-a-hackathon-appreciates-quality-code)
 
